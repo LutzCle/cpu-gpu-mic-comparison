@@ -1,0 +1,8 @@
+# Data of NVLink bus over the last years per direction
+# Collected by Clemens Lutz
+#
+#
+#
+#Year   Bus-BW  Encoding    Name
+2016    80      128b/130b   "NVLink 1.0"
+2018    150     128b/130b   "NVLink 2.0"

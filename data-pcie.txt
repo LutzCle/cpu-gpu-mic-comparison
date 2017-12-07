@@ -1,0 +1,11 @@
+# Data of PCI-e 16x lane slots over the last years
+# Collected by Clemens Lutz
+#
+#
+#
+#Year   Bus-BW  Encoding    Name
+2003    4       8b/10b      "PCI-e 1.0"
+2007    8       8b/10b      "PCI-e 2.0"
+2014    16      128b/130b   "PCI-e 3.0"
+2017    32      128b/130b   "PCI-e 4.0"
+2019    63      128b/130b   "PCI-e 5.0"
