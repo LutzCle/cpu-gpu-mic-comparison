@@ -1,5 +1,7 @@
+#!/usr/bin/Rscript --no-site-file --no-init-file
+
 library(ggplot2)
-library(dplyr)
+library(dplyr, warn.conflicts = FALSE)
 
 mytheme <- theme_minimal(base_size = 8) +
   theme(aspect.ratio = 0.75) +
