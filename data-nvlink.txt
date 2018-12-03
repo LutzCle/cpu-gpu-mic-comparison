@@ -4,5 +4,5 @@
 #
 #
 #Year   Bus-BW  Encoding    Name
-2016    80      128b/130b   "NVLink 1.0"
-2018    150     128b/130b   "NVLink 2.0"
+2016    40      128b/130b   "NVLink 1.0"
+2018    75      128b/130b   "NVLink 2.0"
